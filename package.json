@@ -1,0 +1,36 @@
+{
+  "name": "perfumeshop",
+  "version": "1.0.0",
+  "description": "ecommerce site for perfumes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReshmaShrema/Perfume-Shop.git"
+  },
+  "keywords": [
+    "ecommerce",
+    "perfume",
+    "shop",
+    "html",
+    "css",
+    "bootstrap",
+    "node",
+    "express",
+    "mongodb"
+  ],
+  "author": "Rehma M S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReshmaShrema/Perfume-Shop/issues"
+  },
+  "homepage": "https://github.com/ReshmaShrema/Perfume-Shop#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.7",
+    "express-session": "^1.17.3"
+  }
+}
